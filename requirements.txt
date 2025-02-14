@@ -1,6 +1,5 @@
 flask
 numpy
 scikit-learn
-pickle
 zipfile
 nltk
