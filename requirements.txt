@@ -1,0 +1,6 @@
+flask
+numpy
+scikit-learn
+pickle5
+zipfile
+nltk
